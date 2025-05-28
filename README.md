@@ -9,3 +9,7 @@ use values ​​0, 1
 
 ```c++
 #define invetColor 1.0 //0 disabled, 1 active
+
+### result:
+
+![caustics with reverse activated]()
