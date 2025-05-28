@@ -12,4 +12,4 @@ use values ​​0, 1
 
 ### result:
 
-![caustics with reverse activated]()
+![caustics with reverse activated](https://github.com/Tuvefef/caustic-tracer/blob/main/water_caustics.png)
