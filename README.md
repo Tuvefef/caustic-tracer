@@ -1,9 +1,9 @@
-#caustic tracer
+#caustic tracer#
 
-** This script creates the visual effect of caustics using sprites**
-**This could be used for future projects**
+** This script creates the visual effect of caustics using sprites
+This could be used for future projects**
 
-##use
+##use##
 **The function defined "invetColor" inverts the colors giving an interesting effect
 use values ​​0, 1**
 
