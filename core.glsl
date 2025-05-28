@@ -11,7 +11,7 @@ uniform sampler2D u_texture_0;
 #define invetColor 1.0
 
 #include "pragma/aditionalFUNC/varialHeaDER.glsl"
-#include "pragma/aditionalFUNC/invertFUncHEader.h"
+#include "pragma/aditionalFUNC/invertFUncHEader.hpp"
 #include "pragma/caustics.glsl"
 
 void main(){
