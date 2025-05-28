@@ -8,4 +8,4 @@ The function defined "invetColor" inverts the colors giving an interesting effec
 use values ​​0, 1
 
 ```c++
-#define invetColor 1.0 //0 deactive, 1 active
+#define invetColor 1.0 //0 disabled, 1 active
