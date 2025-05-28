@@ -7,5 +7,5 @@
 **The function defined "invetColor" inverts the colors giving an interesting effect
 use values ​​0, 1**
 
-```c
+```c++
 #define invetColor 1.0 //0 deactive, 1 active
