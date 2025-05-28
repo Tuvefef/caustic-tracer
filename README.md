@@ -14,4 +14,5 @@ use values ​​0, 1
 
 ### result:
 
-![caustics with reverse activated](https://github.com/Tuvefef/caustic-tracer/blob/main/shader.gif)
+```html
+<img scr="https://github.com/Tuvefef/caustic-tracer/blob/main/shader.gif" width="400">
